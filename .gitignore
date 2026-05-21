@@ -1,0 +1,20 @@
+mon_env/
+.venv/
+env/
+venv/
+ENV/
+
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+.ipynb_checkpoints/
+.jupyter/
+
+.DS_Store
+Thumbs.db
+
+# *.csv
+# *.xlsx
